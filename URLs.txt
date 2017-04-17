@@ -2,3 +2,4 @@ http://onlinelibrary.wiley.com/doi/10.1111/jcc4.12074/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763717/
 https://gigaom.com/2012/12/12/twitter-and-google-offer-case-studies-in-spanning-distributed-systems/
 http://www.tandfonline.com/doi/full/10.1080/1057610X.2014.974948?src=recsys
+https://student.unsw.edu.au/how-engineering-case-study-report-organised
