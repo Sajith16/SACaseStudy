@@ -3,4 +3,6 @@ Using Twitter to Measure Public Discussion of Diseases :- https://www.ncbi.nlm.n
 Twitter and Google offer case studies in spanning distributed systems :- https://gigaom.com/2012/12/12/twitter-and-google-offer-case-studies-in-spanning-distributed-systems/
 Tweeting the Jihad: Social Media Networks of Western Foreign Fighters in Syria and Iraq:- http://www.tandfonline.com/doi/full/10.1080/1057610X.2014.974948?src=recsys
 How an Engineering Case Study Report is Organised :- https://student.unsw.edu.au/how-engineering-case-study-report-organised
-How to make $500,000 a year on twitter :- https://www.fastcompany.com/3036880/how-to-make-500000-a-year-on-twitter
+How to make $500,000 a year on twitter :- https://www.fastcompany.com/3036880/how-to-make-500000-a-year-on-
+
+Reliability testing twitter :- https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter
