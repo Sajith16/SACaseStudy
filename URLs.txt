@@ -9,3 +9,5 @@ Reliability testing twitter :- https://blog.twitter.com/2014/push-our-limits-rel
 
 How to write the case study :- http://www.monash.edu.au/lls/llonline/quickrefs/27-case-study.pdf (As mentioned in the lecture slide)
 How to do a case study :- http://www.wikihow.com/Do-a-Case-Study (As mentioned in the lecture slide)
+How to Analyse a Case Study :- http://www.wikihow.com/Analyse-a-Case-Study
+How to Write a Case-Study(New) :- http://www.wikihow.com/Write-a-Case-Study
