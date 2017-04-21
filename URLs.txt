@@ -21,3 +21,13 @@
 19.Introduction to twitter presentation :- https://www.slideshare.net/SMforbeginners/introduction-to-twitter-presentation
 20.A gentle introduction to Twitter for the apprehensive academic :- http://deevybee.blogspot.com/2011/06/gentle-introduction-to-twitter-for.html
 21.An introduction to twitter :- https://campus.extension.org/course/view.php?id=505
+22.Software Reliability :- https://users.ece.cmu.edu/~koopman/des_s99/sw_reliability/
+23.Software Reliability(New) :- http://www.wohlin.eu/softrel01.pdf
+24.Software Metrics and Reliability :- https://www.unf.edu/~ncoulter/cen6070/handouts/minorreport/Rosenberg.html
+25.Measuring Reliability of Software Products :- https://www.iiitd.edu.in/~jalote/papers/MeasuringRelofProducts.pdf
+26.Topics in Software Reliability :- https://www.cs.drexel.edu/~spiros/teaching/CS576/slides/9.reliability.pdf
+27.reliability :- http://whatis.techtarget.com/definition/reliability
+28.Reliability, Availability and Serviceability (RAS) :- http://whatis.techtarget.com/definition/Reliability-Availability-and-Serviceability-RAS
+29.Software Reliability(Another) :- https://www.slideshare.net/AnandKumar87/software-reliability-11841804
+30.Software Reliability(Another New) :- http://www.businessdictionary.com/definition/software-reliability.html
+31.Software reliability testing :- https://en.wikipedia.org/wiki/Software_reliability_testing
