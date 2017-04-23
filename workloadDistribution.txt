@@ -1,14 +1,6 @@
-1. Chilean earthquake of 2010 / Twitter Activity during an emergency :- Examples For Twitter Case Study/soma2010_11.pdf
-	Has more information data and statistics. So sufficient fact for one member in the group. Need to find such kind of informative facts for gaining good marks as I guess.
-	
-2. "Redis Labs" provide some reliability features. :- Examples For Twitter Case Study/Redis-Labs-Case-Study-Twitter.pdf
-	Has some believable facts but when comparing with above mentioned 1st fact this is less in quantity of information
-	
-3. Reliability testing at twitter - 7th URL
-    Has good information. May be enough for one member.
-	
-4. Way to measure the reliability of a tweet before posting/tweeting + twitter functionalities 
-	just a my idea. May be a good way but definetely insufficient of facts because this is just a suggestion. Don't know already availble in twitter. If so there may have information to prove. Otherwise has to create by own to prove this.
-	
-5. Some of the functionalities of twitter
-6. Twitter hacking opportunities
+1. History of twitter reliability.
+2. Reliability definition by Twitter
+3. Actions taken for improving reliability
+4. When increasing reliability how other quality attributes can get affected and vice versa of it.
+5. compare twitter with facebook.
+ 
