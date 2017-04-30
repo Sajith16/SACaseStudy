@@ -50,3 +50,4 @@
 48.Twitter prototype:- http://www.kingfishercoaching.com/shelve-an-idea-to-make-it-succesful/
 49.When Twitter was young :- http://vator.tv/news/2016-04-19-when-twitter-was-young-the-early-years
 50.Reliability - https://blog.twitter.com/2010/reliability
+51.Twitter An Architectural Review:- http://www.timdeboer.eu/paper_publishing/Twitter_An_Architectural_Review.pdf
