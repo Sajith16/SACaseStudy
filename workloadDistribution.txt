@@ -1,6 +1,6 @@
 1. History of twitter reliability.
 2. Reliability definition by Twitter
 3. Actions taken for improving reliability
-4. When increasing reliability how other quality attributes can get affected and vice versa of it.
+4. Trade offs
 5. compare twitter with facebook.
  
