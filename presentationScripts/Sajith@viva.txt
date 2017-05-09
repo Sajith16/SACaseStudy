@@ -5,5 +5,7 @@
 5.Basically, we are prsenting about ...(while showing the slide 2 )
 6.History of Twitter Reliability
 7.if there's a solid foundation, then we can expect a quality product.
-8.Here the solid foundation is their simulation which is the prototype of Twitter.
-9.  
+8.Here the solid foundation. Their simulation which is the prototype of Twitter.
+9.This ideation of first twitter prototype was used as an internal service for Odeo employees. 
+10.See how it was reliable even from the very beginning.
+11. 
