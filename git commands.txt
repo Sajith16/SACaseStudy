@@ -1,0 +1,42 @@
+---set up git----
+	
+	git config --global user.name "Sajith16"
+	git config --global user.email "sajithchamara64@gmail.com"
+	
+	
+--check out---
+
+	git clone <https clone url>
+	
+	
+--To see files--
+
+		vim <filename>
+		
+		
+--To see what modify what not modified--
+
+	git status
+	
+	
+	
+-- push/check In --
+
+	git add <filename>/ .(for untracked files)
+	git commit -m "comment"
+	(if u are not clonned/downloaded before)->git remote add origin <https clone url> 
+	git push -u origin master
+	
+--- see the comments ---	
+
+	git log 
+	
+	
+--- create new file ----
+
+	touch t2.txt
+	
+	
+-- pull --
+
+	git pull origin master

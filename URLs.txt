@@ -49,5 +49,9 @@
 47.The Complete Guide to Social Media :- https://rucreativebloggingfa13.files.wordpress.com/2013/09/completeguidetosocialmedia.pdf
 48.Twitter prototype:- http://www.kingfishercoaching.com/shelve-an-idea-to-make-it-succesful/
 49.When Twitter was young :- http://vator.tv/news/2016-04-19-when-twitter-was-young-the-early-years
-50.Reliability testing at twitter :- https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter
-51.Reliability - https://blog.twitter.com/2010/reliability
+50.Reliability - https://blog.twitter.com/2010/reliability
+51.Twitter An Architectural Review:- http://www.timdeboer.eu/paper_publishing/Twitter_An_Architectural_Review.pdf
+52.Twitter top 100 most followers:- https://twittercounter.com/pages/100
+53.Germany school shooting: Twitter first with the news again:- http://www.telegraph.co.uk/news/worldnews/europe/germany/4974916/Germany-school-shooting-Twitter-first-with-the-news-again.html
+54.Twitter Under Crisis: Can we trust what we RT:- http://snap.stanford.edu/soma2010/papers/soma2010_11.pdf
+55.Censorship of Twitter :- https://en.wikipedia.org/wiki/Censorship_of_Twitter
