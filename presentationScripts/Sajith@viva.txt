@@ -2,7 +2,8 @@
 2.Our case study is based on Reliability of Twitter.
 3.As we all know Twitter is an online social media platform where people can create reliable opinions.
 4.Jack Dorsey, Evan Williams and other those two team players(while showing the slide 2) created it.
-5.Basically, we are talking about ...(while showing the slide 2 )
-6.
-
-foundation
+5.Basically, we are prsenting about ...(while showing the slide 2 )
+6.History of Twitter Reliability
+7.if there's a solid foundation, then we can expect a quality product.
+8.Here the solid foundation is their simulation which is the prototype of Twitter.
+9.  
