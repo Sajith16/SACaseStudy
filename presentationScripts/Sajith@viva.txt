@@ -9,3 +9,6 @@
 9.This ideation of first twitter prototype was used as an internal service for Odeo employees. 
 10.See how it was reliable even from the very beginning.
 11. 
+
+what I learnt from Twitter reliability to my softwares...
+If I make a social media site what should I do to protect the reliability?
