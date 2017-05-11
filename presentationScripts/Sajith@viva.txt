@@ -12,5 +12,7 @@
 12.First, it's 2006 to 2010.
 13.
 
+chronological
+
 what I learnt from Twitter reliability to my softwares...
 If I make a social media site what should I do to protect the reliability?
