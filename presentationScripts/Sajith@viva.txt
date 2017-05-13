@@ -17,13 +17,24 @@
 17.They introduced their first non-English version in Japan on April 2008 as another step of reliability improvement.
 18.when talk about downtimes in 2009, due to a dictionary attack 33 high-profile accounts were compromised.
 19.So they launched their beta version.
-20.Eventhough such incidents were taken place, in the same here A School shooting was happened in Winnenden(Germany). 
+20.Eventhough such incidents were taken place, in the same year A School shooting was happened in Winnenden(Germany). 
 21.But students were tweeted the scene in that moment while showing how they rely(rily) on Twitter to the world.
 22.Next is the most wanted moment - 2010 Chile earthquake.
 23.This graph indicates how the number of tweets get distributed by the time.
 24.It was occured on one Saturday. But number of tweets were law in the beginning. One reason behind that was internet had intermittent.
 25.Using such kind of graphs they were tried to discriminate rumours and confirmed news.
-26.
+26.But in the FIFA world cup 2010, 2940 tweets were posted per second in the 30 second period of time.
+27.when stepping forward a year, some official club accounts were established in 2011.
+28.In 2012 Nielsen and Twitter enterd a multi year agreement which is the Nielsen Twitter TV Rating.
+29.That is for producing social TV ratings and Twitter had lots of real time news feeds.
+30.In 2013 Twitter is one of the top ten most visited websites.
+31.But according to a calculation 5% accounts on Twitter are fraudulent. Becasue there was something behind the scene called Twitterbots.
+32.It is a computer program which can tweet,retweet and follow other accounts automatically.
+34.They had a new connection with IBM to improve customer interaction.
+35.They introduced a new feature called TweetDeck in 2015 in order to share team accounts.
+36.Interesting part in there was not any sake to share pwd
+37.40 million election related tweets were tweeted in last prsedinatial election in 2016 while being the largest media for breaking news.
+38.Recently on April, they introduced the Twitter Lite 
 chronological
 
 what I learnt from Twitter reliability to my softwares...
