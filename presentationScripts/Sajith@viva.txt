@@ -1,4 +1,4 @@
-1.Good morning/afternoon,evening everyone or ?
+1.Good morning everyone.
 2.Our case study is based on Reliability of Twitter.
 3.As we all know Twitter is an online social media platform where people can create reliable opinions.
 4.Jack Dorsey, Evan Williams and other those two team players(while showing the slide 2) created it.
@@ -10,8 +10,12 @@
 10.See how it was reliable even from the very beginning.
 11.I'll demonstrate the history according to eras.
 12.First, it's 2006 to 2010.
-13.
-
+13.In 2016, they launched as twttr.com to all the private accounts and just after few months it is on July, they make it available to public.
+14.Which shows good reliable fact
+15.Then SXSW(SouthBySouthWest) conference was happened in 2017
+16.where we could see a massive enhancement of daily messages.
+17.They introduced their first non-English version in Japan on April 2008 as another step of reliability improvement.
+18.
 chronological
 
 what I learnt from Twitter reliability to my softwares...
