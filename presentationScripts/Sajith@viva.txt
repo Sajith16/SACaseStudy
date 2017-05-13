@@ -10,12 +10,20 @@
 10.See how it was reliable even from the very beginning.
 11.I'll demonstrate the history according to eras.
 12.First, it's 2006 to 2010.
-13.In 2016, they launched as twttr.com to all the private accounts and just after few months it is on July, they make it available to public.
+13.In 2006, they launched as twttr.com to all the private accounts and just after few months it is on July, they make it available to public.
 14.Which shows good reliable fact
-15.Then SXSW(SouthBySouthWest) conference was happened in 2017
+15.Then SXSW(SouthBySouthWest) conference was happened in 2007
 16.where we could see a massive enhancement of daily messages.
 17.They introduced their first non-English version in Japan on April 2008 as another step of reliability improvement.
-18.
+18.when talk about downtimes in 2009, due to a dictionary attack 33 high-profile accounts were compromised.
+19.So they launched their beta version.
+20.Eventhough such incidents were taken place, in the same here A School shooting was happened in Winnenden(Germany). 
+21.But students were tweeted the scene in that moment while showing how they rely(rily) on Twitter to the world.
+22.Next is the most wanted moment - 2010 Chile earthquake.
+23.This graph indicates how the number of tweets get distributed by the time.
+24.It was occured on one Saturday. But number of tweets were law in the beginning. One reason behind that was internet had intermittent.
+25.Using such kind of graphs they were tried to discriminate rumours and confirmed news.
+26.
 chronological
 
 what I learnt from Twitter reliability to my softwares...
